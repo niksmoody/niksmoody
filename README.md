@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikita Shitole</h1>
-<h3 align="center">A compassionate CS undergrad</h3>
+<h3 align="center">A compassionate CS undergrad who loves to explore!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niksmoody&label=Profile%20views&color=0e75b6&style=flat" alt="niksmoody" /> </p>
 
