@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [To Do List](https://github.com/niksmoody/REACT-To_Do_List)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/niksmoody?tab=repositories](https://github.com/niksmoody?tab=repositories)
 
